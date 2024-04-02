@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rich4rdPozzebon
+- 👀 I’m interested in Hacking and Game Developer
+- 🌱 I’m currently learning GameMaker, Unity and Kali Linux
+- ⚡ Fun fact: I speak Italian, Portuguese(Mother Language), English & a litle Esperanto
